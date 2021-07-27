@@ -1,0 +1,93 @@
+#title {
+    font-size: 50px;
+    font-family: serif;
+    text-shadow: orange;
+}
+
+.links {
+    float: right;
+    color: darkorange;
+    padding-top: 5px;
+    padding-left: 9px;
+    padding-right: 9px;
+    padding-bottom: 5px;
+    font-family: 'Benne', serif;
+    font-size: 20px;
+}
+
+.links:hover {
+    background-color: white;
+}
+
+#darwinsimp {
+    width: 800;
+    height: 480;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 8px;
+    padding-right: 8px;
+}
+
+#troll {
+    height: 480;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 8px;
+    padding-right: 8px;
+}
+
+#trim {
+    height: 480;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 8px;
+    padding-right: 8px;
+}
+
+#omigosh {
+    height: 480;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 8px;
+    padding-right: 8px;
+}
+
+#hehe {
+    height: 480;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 8px;
+    padding-right: 8px;
+}
+
+#hmph {
+    height: 480;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 8px;
+    padding-right: 8px;
+}
+
+#ewe {
+    height: 480;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 8px;
+    padding-right: 8px;
+}
+
+#hm {
+    height: 480;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 8px;
+    padding-right: 8px;
+}
+
+#wow {
+    height: 480;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 8px;
+    padding-right: 8px;
+}
